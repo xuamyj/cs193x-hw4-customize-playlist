@@ -52,4 +52,4 @@ You will need:
 - It's also good to upload it into your main directory (ie. not the songs/ folder)
 ![Image: upload json file](/images/12.png?raw=true)
 
-Now, you should be able to access your .json file! Go to your published site link (in my example, https://sofiecaprice.github.io/whatever-name-here/) and add at the end, like `https://sofiecaprice.github.io/whatever-name-here/amy-songs.json`
+Now, you should be able to access your .json file! Go to your published site link (in my example, https://sofiecaprice.github.io/whatever-name-here/) and add your json file name at the end, like `https://sofiecaprice.github.io/whatever-name-here/amy-songs.json`
